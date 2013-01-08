@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.559,C:\Users\Вова\Documents\RAD Studio\Projects\Unit1.h=C:\Users\Вова\Desktop\launcher\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,C:\Users\Вова\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\Вова\Desktop\launcher\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,=C:\Users\Вова\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,C:\Users\Вова\Documents\RAD Studio\Projects\Project1PCH1.h=C:\Users\Вова\Desktop\launcher\Launcher.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,C:\Users\Вова\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\Вова\Desktop\launcher\Launcher1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,C:\Users\Вова\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Вова\Desktop\launcher\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.450,=C:\Users\Вова\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
